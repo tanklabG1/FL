@@ -1,0 +1,1 @@
+cmd_/home/tank/br4/openvswitch-2.7.0/datapath/linux/openvswitch.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/tank/br4/openvswitch-2.7.0/datapath/linux/openvswitch.ko /home/tank/br4/openvswitch-2.7.0/datapath/linux/openvswitch.o /home/tank/br4/openvswitch-2.7.0/datapath/linux/openvswitch.mod.o
